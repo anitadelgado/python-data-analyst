@@ -1,5 +1,6 @@
-# **`Python Exercises`** 
-## *Ejercicios resueltos con Python* 
+# **`Python Data Analyst Exercices`** 
+## *Ejercicios resueltos con Python del curso de Python Data Analyst* 
+
 ### **`Información del repositorio:`**
 
 #### Este repositorio es una recopilación de ejercicios del curso de Python Data Analyst.

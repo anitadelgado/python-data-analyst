@@ -1,2 +1,14 @@
-# python-data-analyst
-Este repositorio es una recopilación de práctica de Python (sintaxis, lenguaje...) desde inicio hasta avanzado
+# **`Python Exercises`** 
+## *Ejercicios resueltos con Python* 
+### **`Información del repositorio:`**
+
+#### Este repositorio es una recopilación de ejercicios del curso de Python Data Analyst.
+
+### **`Desarrollado con:`**
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [python](https://www.python.org/)
+- [MySQL](https://www.mysql.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [MongoDB Atlas](https://www.mongodb.com/atlas/database)
